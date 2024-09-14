@@ -1,8 +1,10 @@
 # Web-Scraping-and-Data-Handling-Challenge
 Overview
+
 This project involves scraping movie and TV show data from the JustWatch website using Selenium and BeautifulSoup. The data is then filtered and analyzed using Pandas, with the results exported to a CSV file. The project aims to demonstrate web scraping, data processing, and analysis skills in Python.
 
 Website
+
 JustWatch - Movies
 
 Tasks
